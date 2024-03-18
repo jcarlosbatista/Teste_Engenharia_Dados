@@ -1,3 +1,5 @@
+Fonte de dados: https://www.kaggle.com/code/andremitri/pcd3-t1-ecommerce/notebook
+
 # ENTREVISTA PTCGROUP
 
 1. Arquitetura e Configuração:
